@@ -1,4 +1,4 @@
-package com.sabisu.Ecomerce.project;
+package com.riwi.sabisu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
